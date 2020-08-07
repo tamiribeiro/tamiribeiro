@@ -26,9 +26,9 @@
 
 ## Find Me!
 
-[<img align="left" alt="tamiribeiro | Linkedin" width="28px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />][linkedin]
-[<img align="left" alt="tamiribeiro | Instagram" width="28px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="tamiribeiro | playlist" width="28px" src="https://image.flaticon.com/icons/svg/725/725281.svg" />][spotify]
+[<img align="left" alt="tamiribeiro | Linkedin" width="28px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
+[<img align="left" alt="tamiribeiro | Instagram" width="28px" src="https://image.flaticon.com/icons/svg/185/185985.svg" />][instagram]
+[<img align="left" alt="tamiribeiro | playlist" width="28px" src="https://image.flaticon.com/icons/svg/185/185974.svg" />][spotify]
 
 [instagram]: https://instagram.com/tamiribeiross
 [linkedin]: https://www.linkedin.com/in/tami-ribeiro-b9b637178/
