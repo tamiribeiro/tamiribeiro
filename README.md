@@ -2,7 +2,7 @@
 
 ### 🧬 I'm a biomedical science student enthusiastic about programming and it's possibilities. 
 
-- 👩🏻‍💻 I'm currently studying web development through [Rocketseat's] bootcamp.
+- 👩🏻‍💻 I'm currently studying web development through [Rocketseat's] Launchbase bootcamp.
 - 🚀 I'm basically learning HTML, CSS and Javascript.
 - 🖖🏻 I hope to be able to help others new developers and grow together.
 - 🎯 2020 goals: find my first junior job in web development.
@@ -28,11 +28,9 @@
 ## Find Me!
 
 [<img align="left" alt="tamiribeiro | Linkedin" width="28px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
-[<img align="left" alt="tamiribeiro | Instagram" width="28px" src="https://image.flaticon.com/icons/svg/185/185985.svg" />][instagram]
 [<img align="left" alt="tamiribeiro | rocketseat me" width="28px" src="https://image.flaticon.com/icons/svg/610/610290.svg" />][rocketme]
 [<img align="left" alt="tamiribeiro | playlist" width="28px" src="https://image.flaticon.com/icons/svg/185/185974.svg" />][spotify]
 
-[instagram]: https://instagram.com/tamiribeiross
 [linkedin]: https://www.linkedin.com/in/tami-ribeiro-b9b637178/
 [spotify]: https://open.spotify.com/playlist/3q63ULnXTgFGImSl2IyEvI?si=XXYHOlbCRgmJAayTPs1Mbw
 [Rocketseat's]: https://rocketseat.com.br/
