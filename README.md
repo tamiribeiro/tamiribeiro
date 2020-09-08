@@ -29,10 +29,8 @@
 
 [<img align="left" alt="tamiribeiro | Linkedin" width="28px" src="https://image.flaticon.com/icons/svg/185/185964.svg" />][linkedin]
 [<img align="left" alt="tamiribeiro | rocketseat me" width="28px" src="https://image.flaticon.com/icons/svg/610/610290.svg" />][rocketme]
-[<img align="left" alt="tamiribeiro | playlist" width="28px" src="https://image.flaticon.com/icons/svg/185/185974.svg" />][spotify]
 
 [linkedin]: https://www.linkedin.com/in/tami-ribeiro-b9b637178/
-[spotify]: https://open.spotify.com/playlist/3q63ULnXTgFGImSl2IyEvI?si=XXYHOlbCRgmJAayTPs1Mbw
 [Rocketseat's]: https://rocketseat.com.br/
 [rocketme]:https://app.rocketseat.com.br/me/tami-ribeiro-1592181864
 <br>
