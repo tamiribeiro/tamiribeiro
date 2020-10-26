@@ -1,8 +1,16 @@
-## Olá, Hello, I'm Tami!
+     import React from 'react';
 
-### 🧬 I'm a biomedical science student enthusiastic about programming and it's possibilities. 
+      function Introduction() {
+      return (
+          <div className="Tami Ribeiro">
+             <h1>Hello World!</h1>
+       )}
+  
+     export default Introduction; 
 
-- 👩🏻‍💻 I'm currently studying web development through [Rocketseat's] GoStack bootcamp.
+### 🧬 > 💻 Used to be a biomedical science student, but fell in love with programming and it's possibilities. Now I'm in a technologist degree in System Analysis and Development, excited to know where I can go. 
+
+- 👩🏻‍💻 I'm currently studying web and mobile development through [Rocketseat's] GoStack bootcamp.
 - 🚀 I'm basically learning JavaScript, Node.js, ReactJS and React Native.
 - 🖖🏻 I hope to be able to help others new developers and grow together.
 
