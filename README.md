@@ -1,4 +1,4 @@
-### 🧬 > 💻 Used to be a biomedical science student, but fell in love with programming and it's possibilities. Now I'm in a technologist degree in System Analysis and Development, excited to know where I can go. 
+#### 🧬 > 💻 Used to be a biomedical science student, but fell in love with programming and it's possibilities. Now I'm in a technologist degree in System Analysis and Development, excited to know where I can go. 
 
 - 👩🏻‍💻 I'm currently studying web and mobile development through [Rocketseat's] GoStack bootcamp.
 - 🚀 I'm basically learning JavaScript, Node.js, ReactJS and React Native.
