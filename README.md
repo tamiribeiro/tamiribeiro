@@ -1,13 +1,3 @@
-     import React from 'react';
-
-      function Introduction() {
-      return (
-          <div className="Tami Ribeiro">
-             <h1>Hello World!</h1>
-       )}
-  
-     export default Introduction; 
-
 ### 🧬 > 💻 Used to be a biomedical science student, but fell in love with programming and it's possibilities. Now I'm in a technologist degree in System Analysis and Development, excited to know where I can go. 
 
 - 👩🏻‍💻 I'm currently studying web and mobile development through [Rocketseat's] GoStack bootcamp.
