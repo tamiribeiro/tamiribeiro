@@ -25,7 +25,7 @@
 
 [linkedin]: https://www.linkedin.com/in/tami-ribeiro-b9b637178/
 [Rocketseat's]: https://rocketseat.com.br/
-[rocketme]:https://app.rocketseat.com.br/me/tami-ribeiro-1592181864
+[rocketme]:https://app.rocketseat.com.br/me/tamiribeiro
 <br>
 <br>
 
