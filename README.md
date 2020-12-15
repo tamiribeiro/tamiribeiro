@@ -1,4 +1,4 @@
-#### 🧬 > 💻 Used to be a biomedical science student, but fell in love with programming and it's possibilities. Enthusiastic about programming looking for freedom and freeing my creativity. 
+#### 🧬 > 💻 Used to be a biomedical science student but fell in love with programming and it's possibilities. Enthusiastic about programming looking for freedom and freeing my creativity. 
 
 - 👩🏻‍💻 I'm currently studying web and mobile development through [Rocketseat's] GoStack bootcamp.
 - 🚀 I'm basically learning JavaScript, Node.js, ReactJS and React Native.
@@ -18,12 +18,12 @@
 
 <br>
 
-### Find Me!
+### 📬Find Me!
 
 [<img align="left" alt="tamiribeiro | Linkedin" width="28px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" />][linkedin]
 [<img align="left" alt="tamiribeiro | rocketseat me" width="28px" src="https://www.flaticon.com/svg/static/icons/svg/1067/1067357.svg" />][rocketme]
 
-[linkedin]: https://www.linkedin.com/in/tami-ribeiro-b9b637178/
+[linkedin]: https://www.linkedin.com/in/tami-ribeiro/
 [Rocketseat's]: https://rocketseat.com.br/
 [rocketme]:https://app.rocketseat.com.br/me/tamiribeiro
 <br>
