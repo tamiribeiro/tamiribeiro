@@ -1,31 +1,23 @@
-#### 🧬 > 💻 Used to be a biomedical science student but fell in love with programming and it's possibilities. Enthusiastic about programming looking for freedom and freeing my creativity. 
+# Tami Ribeiro 👩🏻‍🦰
 
-- 👩🏻‍💻 I'm currently studying web and mobile development through [Rocketseat's] GoStack bootcamp.
-- 🚀 I'm basically learning JavaScript, Node.js, ReactJS and React Native.
-- 🧡 Growing a little everyday through consistency and desire for learning. 
-- 🖖🏻 I hope to be able to help others new developers and grow together.
+<div> 
+  <a href="https://www.linkedin.com/in/tami-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.frontendmentor.io/profile/tamiribeiro" target="_blank"><img src="https://img.shields.io/badge/-FrontendMentor-%3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=black&color=white" target="_blank"></a> 
+  <a href="https://www.freecodecamp.org/tamiribeiro" target="_blank"><img src="https://img.shields.io/badge/-freeCodeCamp-%0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&color=0A0A23" target="_blank"></a> 
+</div>
 
+## 🧬 > 💻 Used to be a biomedical science student but fell in love with coding and it's possibilities. Enthusiastic about front-end development looking for freedom and freeing my creativity
 
-### Languages and tools I'm current using
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br>
+- 👩🏻‍💻 I'm currently studying web development through bootcamps and challenges.
+- 🎓 I'm learning HTML, CSS and JavaScript.
+- 🚀 Interested in ReactJS, React Native and Node.js.
+- 🧡 Growing a little everyday through consistency and desire for learning.
 
-<br>
+<div>
+  <a href="https://github.com/tamiribeiro">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamiribeiro&hide=prs,issues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiribeiro&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
-### 📬Find Me!
-
-[<img align="left" alt="tamiribeiro | Linkedin" width="28px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" />][linkedin]
-[<img align="left" alt="tamiribeiro | rocketseat me" width="28px" src="https://www.flaticon.com/svg/static/icons/svg/1067/1067357.svg" />][rocketme]
-
-[linkedin]: https://www.linkedin.com/in/tami-ribeiro/
-[Rocketseat's]: https://rocketseat.com.br/
-[rocketme]:https://app.rocketseat.com.br/me/tamiribeiro
-<br>
-<br>
 
